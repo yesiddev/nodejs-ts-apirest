@@ -1,0 +1,2 @@
+Esta es una rest api para un blog, sirve para publicar cosas,
+no olvides ejectar primero npm i.
